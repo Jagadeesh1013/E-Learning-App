@@ -3,4 +3,8 @@
   <groupId>com.jagadeesh</groupId>
   <artifactId>E-Learning-App</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
+  <dependencies>
+  </dependencies>
+  
 </project>
